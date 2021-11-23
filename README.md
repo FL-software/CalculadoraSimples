@@ -4,4 +4,5 @@ Calculadora onde no primeiro campo é digitado o valor, no segundo é escolhido 
 
 Desenvolvido por Bruno Trindade e Leonardo Maia
 
-![image](https://user-images.githubusercontent.com/92823045/143137312-3bbba159-51da-49c7-9e6e-f807a2ee5578.png)
+![image](https://user-images.githubusercontent.com/92823045/143137486-662fd378-e2c1-4039-a597-db1902cee9fb.png)
+
